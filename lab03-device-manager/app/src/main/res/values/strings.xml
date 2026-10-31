@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Device Manager</string>
+    <string name="edit_device">Edit Device</string>
+    <string name="open_documentation">Open Documentation</string>
+    <string name="label_device_name">Device Name:</string>
+    <string name="label_battery">Battery Level (%):</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="summary_format">Device: %1$s\nBattery: %2$d%%</string>
+    <string name="error_name_required">Device name is required</string>
+    <string name="error_battery_number">Enter the battery level as a whole number</string>
+    <string name="error_battery_range">Battery level must be between %1$d and %2$d</string>
+    <string name="edit_cancelled">Edit cancelled - no changes made</string>
+    <string name="no_browser">No application can open the documentation link</string>
+</resources>
